@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Computer science student, dev from Dagestan 🇷🇺</h3>
 
 <h3 align="center">lang/frameworks i use </h3>
+<div styte="dispaly:flex; flex-direction:inline;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
@@ -29,3 +30,4 @@ Here are some ideas to get you started:
                     
                     
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+                    </div>
