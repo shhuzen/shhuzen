@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"I'm <a href="https://daniilshat.ru/" target="_blank">Umar</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, python/js dev from Dagestan 🇷🇺</h3>
+<h3 align="center">Computer science student, dev from Dagestan 🇷🇺</h3>
 
+<h3 align="center">lang i use </h3>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
