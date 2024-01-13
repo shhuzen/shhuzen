@@ -46,9 +46,12 @@ Here are some ideas to get you started:
 <h3>Projects</h3>
 <div> 
 <details>
-  <summary>The title of the image group</summary>
-  <img src="image-url" alt="image-description"/>
-  <img src="image-url" alt="image-description"/>
-  <img src="image-url" alt="image-description"/>
+  <summary>Supplements-xx</summary>
+  <h4>Supplements XX - Opencart 3.0 Магазин БАДов .Supplements XX-это команда врачей, прошедших большое количество обучения и курсов повышения квалификации.</h4>
+  <img src="projects/supplements-xx/1.png" alt="image-description"/>
+  <img src="projects/supplements-xx/2.png" alt="image-description"/>
+  <img src="projects/supplements-xx/3.png" alt="image-description"/>
+    <img src="projects/supplements-xx/4.png" alt="image-description"/>
+
 </details>
 <div>
