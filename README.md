@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
                     </div>
-<div style="display:flex;" >
 <h3> Links </h3>
  <a href="https://leetcode.com/shhuzen/">LeetC0d3</a>
   <a href=" https://hh.ru/resume/2bafcb9aff0cb9b09e0039ed1f586939387251">HeadHunter</a>
   <a href="https://wa.me/+796041208820"></a>
- </div>
