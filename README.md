@@ -48,20 +48,72 @@ Here are some ideas to get you started:
 <details>
   <summary>Supplements-xx</summary>
   <h4>Supplements XX - Opencart 3.0 Магазин БАДов .Supplements XX-это команда врачей, прошедших большое количество обучения и курсов повышения квалификации.</h4>
+    <img src="projects/supplements-xx/2.png" alt="image-description"/>
   <img src="projects/supplements-xx/1.png" alt="image-description"/>
-  <img src="projects/supplements-xx/2.png" alt="image-description"/>
   <img src="projects/supplements-xx/3.png" alt="image-description"/>
     <img src="projects/supplements-xx/4.png" alt="image-description"/>
+</details>
+
+<details>
+  <summary>System - PLSCARGO - Amazon Cargo Транспортная компания</summary>
+  <h4>
+  Разработка мини CRM-системы для транспортной компании PLSCARGO (AmazonCargo) в Махачкале, с использованием Python/Django/DRF/Vue.js 3.
+</h4>
+  <img src="projects/plscargo/system.png" alt="image-description"/>
 
 </details>
+
 <details>
-  <summary>PLSCARGO - Amazon Cargo Транспортная компания</summary>
-  <h4>Разработка мини CRM-системы для транспортной компании PLSCARGO (AmazonCargo) в Махачкале, с использованием Python/Django/DRF/Vue.js 3.
+  <summary>Telegram bot - PLSCARGO - Amazon Cargo Транспортная компания</summary>
+  <h4>
+  Реализация Telegram-бота для транспортной компании PLSCARGO(AMAZAON-CARGO) чтоб бот осуществлял приема заявок с сайта, отображения местоположения компании и отправки заявок из Telegram и т.д.
 </h4>
-  <img src="projects/supplements-xx/1.png" alt="image-description"/>
-  <img src="projects/supplements-xx/2.png" alt="image-description"/>
-  <img src="projects/supplements-xx/3.png" alt="image-description"/>
-    <img src="projects/supplements-xx/4.png" alt="image-description"/>
+  <img src="projects/plscargo/tgbot.png" alt="image-description"/>
+  <img src="projects/plscargo/tgbot2.png" alt="image-description"/>
+</details>
+
+<details>
+  <summary>Жалюзи-Люкс SITE</summary>
+  <h4>
+ Сайт одностраничка с использованием HTML, CSS, JS, Python/Django для создания системы товаров и корзины. Внедрил Telegram-бота для обработки заказов с сайта . Реализовал админ-панель для управления товарами и настройки Telegram бота, включая настройку SEO
+</h4>
+  <img src="projects/Жалюзи-люкс/site.png" alt="image-description"/>
+  <img src="projects/Жалюзи-люкс/site2.png" alt="image-description"/>
+    <img src="projects/Жалюзи-люкс/site3.png" alt="image-description"/>
+    <img src="projects/Жалюзи-люкс/site4.png" alt="image-description"/>
+    <img src="projects/Жалюзи-люкс/site5.png" alt="image-description"/>
+    <img src="projects/Жалюзи-люкс/site6.png" alt="image-description"/>
+    <img src="projects/Жалюзи-люкс/site7.png" alt="image-description"/>
+</details>
+
+<details>
+  <summary>Жалюзи-Люкс SYSTEM</summary>
+  <h4>
+ Разработка системы для автоматизации цеха Жалюзи-люкс в Махачкале, с использованием Python/Django/DRF/Vue.js 3.
+</h4>
+  <img src="projects/Жалюзи-люкс/system.png" alt="image-description"/>
+  <img src="projects/Жалюзи-люкс/system2.png" alt="image-description"/>
+  <img src="projects/Жалюзи-люкс/system3.png" alt="image-description"/>
+  <img src="projects/Жалюзи-люкс/system4.png" alt="image-description"/>
+</details>
+
+<details>
+  <summary>Riadu Telegram bot</summary>
+  <h4>
+Разработка Telegram-бота для приема пожертвований сборщика чеков и проверки чеков, с последующим введением статистики через админ-панель.
+
+</h4>
+  <img src="projects/riaduTGBOt/tgbot.png" alt="image-description"/>
+</details>
+
+<details>
+  <summary>MINI CRM</summary>
+  <h4>
+MINICRM:Добавление клиентов Комментарий + статус обработки клиента на каких отношениях с клиентом +Статистика работников и клиентов+Видео чата и голосового чата с возможностью оптравлять простые сообщения и голосовые -> стэк PeerJS/Websockests/Django/VUE JS/
+
+</h4>
+  <img src="projects/CRMchatlocal/1.png" alt="image-description"/>
+    <img src="projects/CRMchatlocal/2.png" alt="image-description"/>
 
 </details>
 <div>
