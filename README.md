@@ -72,7 +72,9 @@ Here are some ideas to get you started:
   Реализация Telegram-бота для транспортной компании PLSCARGO(AMAZAON-CARGO) чтоб бот осуществлял приема заявок с сайта, отображения местоположения компании и отправки заявок из Telegram и т.д.
 </h4>
   <img src="projects/plscargo/tgbot.png" alt="image-description"/>
+  <label>Меню TELEGRAM-BOT'а</label>
   <img src="projects/plscargo/tgbot2.png" alt="image-description"/>
+    <label>При нажатии кнопки контакты</label>
 </details>
 
 <details>
@@ -106,7 +108,7 @@ Here are some ideas to get you started:
 Разработка Telegram-бота для приема пожертвований сборщика чеков и проверки чеков, с последующим введением статистики через админ-панель.
 
 </h4>
-  <img src="projects/riaduTGBOt/tgbot.png" alt="image-description"/>
+  <img src="projects/riaduTGBOT/tgbot.png" alt="image-description"/>
 </details>
 
 <details>
