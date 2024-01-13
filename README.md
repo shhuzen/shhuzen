@@ -34,5 +34,7 @@ Here are some ideas to get you started:
                     </div>
 <h3> Links </h3>
  <a href="https://leetcode.com/shhuzen/">LeetC0d3</a>
-  <a href=" https://hh.ru/resume/2bafcb9aff0cb9b09e0039ed1f586939387251">HeadHunter</a>
-  <a href="https://wa.me/+796041208820"></a>
+  <a href="https://hh.ru/resume/2bafcb9aff0cb9b09e0039ed1f586939387251">HeadHunter</a>
+  <a href="https://wa.me/+796041208820">Whats'App</a>
+    <a href="https://t.me/shhuzen">Telegram</a>
+
