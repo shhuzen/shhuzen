@@ -60,6 +60,9 @@ Here are some ideas to get you started:
   Разработка мини CRM-системы для транспортной компании PLSCARGO (AmazonCargo) в Махачкале, с использованием Python/Django/DRF/Vue.js 3.
 </h4>
   <img src="projects/plscargo/system.png" alt="image-description"/>
+    <img src="projects/plscargo/system2.png" alt="image-description"/>
+        <img src="projects/plscargo/system3.png" alt="image-description"/>
+      <img src="projects/plscargo/system5.png" alt="image-description"/>
 
 </details>
 
