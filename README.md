@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"I'm <a href="https://daniilshat.ru/" target="_blank">Umar</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, dev from Dagestan 🇷🇺</h3>
+<h3 align="center">Computer science student, Backend/Frontend DEV</h3>
 
 <h3 align="center">langs/frameworks i use </h3>
 <div styte="dispaly:flex; flex-direction:inline;">
@@ -40,4 +40,5 @@ Here are some ideas to get you started:
 </a> 
   <a href="https://wa.me/+796041208820"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="https://t.me/shhuzen"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/shhuzen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
