@@ -71,10 +71,10 @@ Here are some ideas to get you started:
   <h4>
   Реализация Telegram-бота для транспортной компании PLSCARGO(AMAZAON-CARGO) чтоб бот осуществлял приема заявок с сайта, отображения местоположения компании и отправки заявок из Telegram и т.д.
 </h4>
+  <p>Меню TELEGRAM-BOT'а:</p>
   <img src="projects/plscargo/tgbot.png" alt="image-description"/>
-  <p>Меню TELEGRAM-BOT'а</p>
+    <p>При нажатии кнопки контакты :</p>
   <img src="projects/plscargo/tgbot2.png" alt="image-description"/>
-    <p>При нажатии кнопки контакты</p>
 </details>
 
 <details>
@@ -82,6 +82,7 @@ Here are some ideas to get you started:
   <h4>
  Сайт одностраничка с использованием HTML, CSS, JS, Python/Django для создания системы товаров и корзины. Внедрил Telegram-бота для обработки заказов с сайта . Реализовал админ-панель для управления товарами и настройки Telegram бота, включая настройку SEO
 </h4>
+
   <img src="projects/Жалюзи-люкс/site.png" alt="image-description"/>
   <img src="projects/Жалюзи-люкс/site2.png" alt="image-description"/>
     <img src="projects/Жалюзи-люкс/site3.png" alt="image-description"/>
