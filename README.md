@@ -46,8 +46,9 @@ Here are some ideas to get you started:
 <h3>Projects</h3>
 <div> 
 <details>
-  <summary><img src='https://img.shields.io/badge/Supplements_xx.ru-blue?style=for-the-badge' disabled>
+  <summary>SUPPLEMENTS-XX
 </summary>
+<a href="https://supplements-xx.com"><img src='https://img.shields.io/badge/Supplements_xx.ru-blue?style=for-the-badge'></a>
   <h4>Supplements XX - Opencart 3.0 Магазин БАДов .Supplements XX-это команда врачей, прошедших большое количество обучения и курсов повышения квалификации.</h4>
     <img src="projects/supplements-xx/2.png" alt="image-description"/>
   <img src="projects/supplements-xx/1.png" alt="image-description"/>
