@@ -42,3 +42,13 @@ Here are some ideas to get you started:
     <a href="https://t.me/shhuzen"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/shhuzen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+<h3>Projects</h3>
+<div> 
+<details>
+  <summary>The title of the image group</summary>
+  <img src="image-url" alt="image-description"/>
+  <img src="image-url" alt="image-description"/>
+  <img src="image-url" alt="image-description"/>
+</details>
+<div>
