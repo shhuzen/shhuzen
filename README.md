@@ -54,4 +54,14 @@ Here are some ideas to get you started:
     <img src="projects/supplements-xx/4.png" alt="image-description"/>
 
 </details>
+<details>
+  <summary>PLSCARGO - Amazon Cargo Транспортная компания</summary>
+  <h4>Разработка мини CRM-системы для транспортной компании PLSCARGO (AmazonCargo) в Махачкале, с использованием Python/Django/DRF/Vue.js 3.
+</h4>
+  <img src="projects/supplements-xx/1.png" alt="image-description"/>
+  <img src="projects/supplements-xx/2.png" alt="image-description"/>
+  <img src="projects/supplements-xx/3.png" alt="image-description"/>
+    <img src="projects/supplements-xx/4.png" alt="image-description"/>
+
+</details>
 <div>
