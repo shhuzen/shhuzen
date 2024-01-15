@@ -104,7 +104,6 @@ Here are some ideas to get you started:
   <img src="projects/Жалюзи-люкс/system4.png" alt="image-description"/>
     <img src="projects/Жалюзи-люкс/system6.png" alt="image-description"/>
     <img src="projects/Жалюзи-люкс/system5.png" alt="image-description"/>
-
 </details>
 
 <details>
