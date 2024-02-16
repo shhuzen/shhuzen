@@ -42,8 +42,9 @@ Here are some ideas to get you started:
 </div>
 
 <h3>Projects</h3>
-<a href="https://docs.google.com/document/d/1ZiN0K_-Xwwa0HZZkEwAZozdBeuF0ip0u8k7QjGWIQgg/edit?usp=sharing"> Все видосы с проектов </a>
-<div>  
+
+<div> 
+<a href="https://docs.google.com/document/d/1ZiN0K_-Xwwa0HZZkEwAZozdBeuF0ip0u8k7QjGWIQgg/edit?usp=sharing"> Все видосы с проектов </a> 
 <details>
   <summary>SUPPLEMENTS-XX
 </summary>
