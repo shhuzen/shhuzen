@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3>Projects</h3>
+https://docs.google.com/document/d/1ZiN0K_-Xwwa0HZZkEwAZozdBeuF0ip0u8k7QjGWIQgg/edit?usp=sharing - Все видосы с проектов
 <div>  
 <details>
   <summary>SUPPLEMENTS-XX
@@ -136,6 +137,17 @@ LIVEDOCUMENTS: Внутри этого SPA ВОЗМОЖНОСТЬ CRUD ДОКУ�
 </h4>
   <img src="projects/LIVEDOCUMENTS/dark.png" alt="image-description"/>
     <img src="projects/LIVEDOCUMENTS/white.png" alt="image-description"/>
+
+</details>
+
+<details>
+  <summary>REACT NATIVE APP SYSTEM INVOICES</summary>
+  <h4>
+https://youtu.be/KPMZKiuchfM  - Система Автоматизации цеха  Мобильное приложение | DJANGO REACT-NATIVE
+
+</h4>
+  <img src="projects/mobileapp/dark.png" alt="image-description"/>
+    <img src="projects/mobileapp/white.png" alt="image-description"/>
 
 </details>
 <div>
