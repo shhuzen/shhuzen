@@ -40,9 +40,9 @@ Here are some ideas to get you started:
     <a href="https://t.me/shhuzen"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/shhuzen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
+<a href="https://docs.google.com/document/d/1ZiN0K_-Xwwa0HZZkEwAZozdBeuF0ip0u8k7QjGWIQgg/edit?usp=sharing"> Все видосы с проектов </a>
 <h3>Projects</h3>
-https://docs.google.com/document/d/1ZiN0K_-Xwwa0HZZkEwAZozdBeuF0ip0u8k7QjGWIQgg/edit?usp=sharing - Все видосы с проектов
+
 <div>  
 <details>
   <summary>SUPPLEMENTS-XX
